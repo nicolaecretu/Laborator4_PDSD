@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactsManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_Aditional_Fields">show_aditional_fields</string>
+    <string name="hide_Aditional_Fields">hide_aditional_fields</string>
+
+</resources>
